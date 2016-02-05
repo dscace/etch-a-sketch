@@ -1,0 +1,31 @@
+html,body {
+	margin: 0;
+	padding: 0;
+}
+
+.header {
+	margin-top: 100px;
+}
+
+.application {
+	text-align: center;
+}
+
+.application .pad {
+	margin: 50px 20px auto;
+	line-height: 0;
+	white-space: nowrap;
+}
+
+.pad .grid {
+	background-color: white;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	border: 1px solid gray;
+}
+
+.pad .row {
+	margin: 0;
+	padding: 0;
+}
